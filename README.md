@@ -1,1 +1,1 @@
-# flexible_content_aware_image_synthesis
+# Flexible Content-Aware Image Synthesis for Maritime Tasks with Diffusion Models
